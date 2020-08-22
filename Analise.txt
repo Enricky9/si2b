@@ -1,0 +1,4 @@
+Funcionalidades de login e cadrasto 
+sistema de pagamento de forma segura 
+sistema de gps e comando de de bordo de navegação
+avaliação de serviço

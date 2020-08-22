@@ -1,0 +1,2 @@
+Com a nossa funcionalidade de avaliaçao de serviço, poderemos tirar um
+feedback dos clientes de nosso serviço.

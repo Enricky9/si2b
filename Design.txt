@@ -1,0 +1,8 @@
+o design sera composto por:
+Login
+Cadastro
+Busca
+Agendamento
+Formas de pagamento
+
+Para uso usuario deve estar logando com sua conta criada assim acessando as funcionalidades do ap
